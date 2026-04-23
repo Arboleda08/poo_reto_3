@@ -13,3 +13,5 @@
 -Define an Order class: This class should have a list of MenuItem objects and methods to add items, calculate the total bill amount, and potentially apply specific discounts based on the order composition.
 
 -Create a class diagram with all classes and their relationships. The menu should have at least 10 items. The code should follow PEP8 rules.
+
+<img width="961" height="260" alt="reto3 drawio" src="https://github.com/user-attachments/assets/3115eb6e-cb7d-4670-80aa-a20e1016fc0a" />
